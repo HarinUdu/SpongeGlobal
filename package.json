@@ -1,0 +1,14 @@
+{
+  "name": "sponge-global-fullstack-assessment",
+  "version": "2.1.0",
+  "private": true,
+  "description": "Dependency-free full-stack employee assessment for Sponge Global",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
